@@ -1,0 +1,3 @@
+pytest
+# Optional, enables tests/test_blender_e2e.py (pick the wheel matching your Python, e.g. bpy 5.x for 3.13)
+# bpy

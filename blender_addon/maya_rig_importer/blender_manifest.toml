@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "maya_rig_importer"
+version = "0.1.0"
+name = "Maya Rig Importer"
+tagline = "Convert Maya rigs to Blender armatures with constraints, IK and drivers"
+maintainer = "maya2blender contributors"
+type = "add-on"
+tags = ["Import-Export", "Rigging"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Read rig interchange files exported from Maya"
